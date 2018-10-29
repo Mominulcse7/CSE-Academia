@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@drawable/back1"
+    tools:context="com.cseacademia.mominulcse1213.cseacademia.UserRegistration">
+        >
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/edit_text_style2"
+            android:drawablePadding="8dp"
+            android:gravity="center_vertical"
+            android:hint="@string/fullName"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColorHint="@color/white"
+            android:textSize="16sp" />
+
+
+    <EditText
+        android:id="@+id/userroll"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edit_text_style2"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:hint="Roll As 1214023"
+        android:padding="10dp"
+        android:singleLine="true"
+        android:textColorHint="@color/white"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/usersession"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edit_text_style2"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:hint="Session As 2012-13"
+        android:padding="10dp"
+        android:singleLine="true"
+        android:textColorHint="@color/white"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/userphone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edit_text_style2"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:hint="@string/mobileNumber"
+        android:inputType="phone"
+        android:padding="10dp"
+        android:singleLine="true"
+        android:textColorHint="@color/white"
+        android:textSize="16sp" />
+
+    <EditText
+            android:id="@+id/useremail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edit_text_style2"
+            android:drawablePadding="8dp"
+            android:gravity="center_vertical"
+            android:hint="@string/email"
+            android:inputType="textEmailAddress"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textColorHint="@color/white"
+            android:textSize="16sp" />
+
+        <Button
+            android:layout_gravity="center"
+            android:id="@+id/usersignupbtn"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/edit_text_style3"
+            android:padding="3dp"
+            android:text="@string/signUp"
+            android:textSize="17sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>

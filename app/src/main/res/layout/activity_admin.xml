@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@drawable/back1"
+    tools:context="com.cseacademia.mominulcse1213.cseacademia.AdminActivity">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:background="@drawable/edit_text_style2"
+            android:id="@+id/adminaddpost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add New Post" />
+
+        <Button
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:background="@drawable/edit_text_style2"
+            android:id="@+id/adminaddteacher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Teacher Info" />
+
+        <Button
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:background="@drawable/edit_text_style2"
+            android:id="@+id/adminaddcr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add CR Info" />
+
+        <Button
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:background="@drawable/edit_text_style2"
+            android:id="@+id/admineditpost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Edit/Delete Post" />
+        <Button
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:background="@drawable/edit_text_style2"
+            android:id="@+id/admineditteacher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Edit/Delete Teacher Info" />
+        <Button
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:background="@drawable/edit_text_style2"
+            android:id="@+id/admineditcr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Edit/Delete CR Info" />
+
+        <Button
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:background="@drawable/edit_text_style2"
+            android:id="@+id/adminverifyuser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Verify Reg User Info" />
+
+        <Button
+            android:layout_marginTop="5dp"
+            android:textAllCaps="false"
+            android:background="@drawable/edit_text_style2"
+            android:id="@+id/adminupdelreguser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Update/Delete Reg User" />
+
+    </LinearLayout>
+
+</ScrollView>

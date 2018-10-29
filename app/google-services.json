@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234476161652",
+    "firebase_url": "https://cse-academia-889b8.firebaseio.com",
+    "project_id": "cse-academia-889b8",
+    "storage_bucket": "cse-academia-889b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234476161652:android:6426a85b0676856d",
+        "android_client_info": {
+          "package_name": "com.cseacademia.mominulcse1213.cseacademia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234476161652-p8nbular4et65s0ktn6682nlrit3slse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cseacademia.mominulcse1213.cseacademia",
+            "certificate_hash": "e7fade93391139ee1f2b12ed6062b626b2925101"
+          }
+        },
+        {
+          "client_id": "234476161652-qf6ut1874r4qvhd5do6l607tpuot37b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcERo0v2NE808fvHcyMstkVQZD36UC80g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234476161652-qf6ut1874r4qvhd5do6l607tpuot37b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

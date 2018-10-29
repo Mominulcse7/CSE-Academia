@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">CSE Academia</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="faruksir">Md. Farukuzzaman Khan\nProfessor\nEmail: mfkhanbd2@gmail.com\nPhone: </string>
+    <string name="ambiasir">Dr. Ahsan-Ul-Ambia\nProfessor\nEmail: ambia@cse.iu.ac.bd\nPhone: </string>
+    <string name="ibrahimsir">Md. Ibrahim Abdullah\nProfessor\nEmail: ibrahim@cse.iu.ac.bd \nPhone: </string>
+    <string name="sujitsir">Sujit Kumar Mondal\nProfessor\nEmail: sujit_iu@yahoo.com \nPhone: </string>
+
+    <string name="asaduzzamansir">A.O.M Asaduzzaman\nAssociate Professor\nEmail: azaman_s@yahoo.com \nPhone: </string>
+    <string name="nuzrulsir">Md. Nazrul Islam\nAssociate Professor\nEmail: shilunazrul@yahoo.com \nPhone: </string>
+    <string name="aktaruzzamansir">Dr. Md Aktaruzzaman\nAssociate Professor\nEmail: aktaruzzaman@iu.ac.bd\nPhone: +880 1751639010 </string>
+    <string name="robiulsir">Dr. Md. Robiul Hoque\nAssociate Professor\nEmail: mrhoque.cse@gmail.com \nPhone: +880 1785388302 </string>
+
+    <string name="mojahidulsir">Md. Mojahidul Islam\nAssistant Professor\nEmail: m_mojahidul@yahoo.com \nPhone: </string>
+    <string name="muntasirsir">M. Muntasir Rahman\nAssistant Professor\nEmail: muntasir@cse.iu.ac.bd \nPhone: </string>
+    <string name="shamimsir">Md. Shamim Hossain\nAssistant Professor\nEmail: shamimmalitha@yahoo.com \nPhone: </string>
+    <string name="joyassreemaam">Joyassree Sen\nAssistant Professor\nEmail:  joyassen@yahoo.com \nPhone: </string>
+    <string name="shohidulsir">Md. Shohidul Islam\nAssistant Professor\nEmail: shohid770@yahoo.com \nPhone: </string>
+
+    <string name="alamgirsir">Mohammad Alamgir Hossain\nAssistant Professor\nEmail: alamgir@cse.iu.ac.bd \nPhone: </string>
+    <string name="atiqursir">Md. Atiqur Rahman\nAssistant Professor\nEmail: atique@cse.iu.ac.bd \nPhone: </string>
+    <string name="bappasir">Bappa Sarkar\nAssistant Professor\nEmail: bappa@cse.iu.ac.bd \nPhone: </string>
+    <string name="habibursir">Md. Habibur Rahman\nAssistant Professor\nEmail: habib@cse.iu.ac.bd \nPhone: </string>
+
+    <string name="aboutdeveloper">Name: Md. Mominul Islam \nStudent, Dept of CSE, IU.\nPhone: +8801718056487</string>
+
+    <string name="aboutdept">
+
+The computer science and engineering curriculum is focused on the study of the hardware, software, and theoretical aspects of high-speed computing devices. It is also concerned with the application of these devices to scientific, technological, and business problems.
+
+A bachelor’s degree in computer science and engineering gives students a basic understanding of the discipline. The degree prepares students for graduate work or for various industrial, governmental, and business positions involving the use of computers.
+
+The computer science graduate program offers coursework from a broad spectrum of theoretical and specific computer science applications, combined with research opportunities in nearly all areas of the field.
+
+Since the establishment in August 1996, the Department of Computer Science and Engineering has developed a quality computer science curriculum that offers Bachelor, Master and PhD degrees in computer science and engineering. Faculty has great research interests spanning a wide spectrum of Computer Science. These include theoretical computer science, algorithm design and analysis, mobile computing, database, programming language and compiler design, parallel processing and distributed systems, artificial intelligence, computer graphics, image and speech processing, pattern recognition, data compression, and computer network.
+</string>
+
+    <string name="cse1213">Md. Alamgir Hossain\nCell: 01737-711693\n\nMd. Mehedi Hasan Naim\nCell: 01710-033849 </string>
+    <string name="cse1314">Md. Waliullah\nCell: 01705-699590\n\nMd. Fahad\nCell: 01767-975245 </string>
+    <string name="cse1415">Mamun\nCell: 01725179157\n\nSubasis \nCell: 01705-206077 </string>
+    <string name="cse1516">Md. Riad \nCell: 01786-960434 \n\nMd. \nCell: </string>
+    <string name="cse1617">Md. Jubayer \nCell: 01773-713235 \n\nMd.Faisal \nCell: 01788-829293 </string>
+    <string name="cse1718"> \nCell:  \n\nMd. \nCell: </string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email Id</string>
+    <string name="passowrd">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="newUser">Not a Member yet? Sign Up here.</string>
+    <string name="fullName">Full Name</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="location">Location</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="terms_conditions">By clicking SignUp you agree all the Terms and Conditions.</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="already_user">Already have Account? Login here.</string>
+    <string name="registered_emailid">Please enter your Registered Email Id below:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+
+</resources>

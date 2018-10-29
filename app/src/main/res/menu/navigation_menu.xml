@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/adminlogin"
+        android:title="Admin Login"
+
+        />
+    <item
+        android:id="@+id/usersignup"
+        android:title="User SignUp"
+
+        />
+
+    <item
+        android:id="@+id/cseweb"
+        android:title="CSE Web"
+        />
+
+    <item
+        android:id="@+id/teachercontacts"
+        android:title="Teacher Contacts"
+        />
+    <item
+        android:id="@+id/studentcontacts"
+        android:title="CR Contacts"
+        />
+    <item
+        android:id="@+id/about_dept"
+        android:title="About Dept."
+
+        />
+    <item
+        android:id="@+id/about_developers"
+        android:title="About Developers"
+
+        />
+    <item
+        android:id="@+id/log_out"
+        android:title="Logout"
+
+        />
+
+</menu>
